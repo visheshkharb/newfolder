@@ -1,0 +1,22 @@
+body {
+    background-image: url("vishesh5.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-size: 50px;
+    color:whitesmoke ;
+     text-decoration: underline;
+    text-align: center;
+}
+p {
+    color:whitesmoke;
+        font-size: 36px;
+}
+h3{
+    font-size: 38px;
+    color:white;
+    text-decoration: underline;
+    text-align: center;
+}

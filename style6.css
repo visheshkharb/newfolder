@@ -1,0 +1,16 @@
+body {
+    background-image: url("vishesh6.jpg");
+    background-size:cover;
+    background-repeat:space;
+
+}
+h1{
+    font-size: 50px;
+    color:bisque;
+    text-decoration: underline;
+    text-align: center;
+}
+p {
+    color:bisque;
+        font-size: 40px;
+}

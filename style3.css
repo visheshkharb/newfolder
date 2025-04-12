@@ -1,0 +1,16 @@
+body {
+    background-image: url("vishesh3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1{
+    font-size: 50px;
+    color:bisque;
+    text-decoration: underline;
+    text-align: center;
+}
+p {
+    color:whitesmoke;
+        font-size: 36px;
+}
