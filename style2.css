@@ -9,14 +9,14 @@ h1{
 
     text-align: center;
     text-decoration: underline;
-    line-height: 10px;
+
     color:pink;
 }
 
 p {
     color:rgb(27, 27, 27);
     font-size: 35px;
-    line-height:40px ;
+
 }
 a {
     font-size: 40px;
