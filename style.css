@@ -18,14 +18,14 @@ div {
         color :white;
         text-emphasis-style: bold;
         font-style: italic;
-        font-size: 50px;
+        font-size: 40px;
     }
     h3 {
         text-align: center;
         text-decoration: none;
         color: white;
         font-style: italic;
-        font-size: 40px;
+        font-size: 30px;
     }
     button {
         background-color: pink;
