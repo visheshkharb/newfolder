@@ -1,8 +1,5 @@
 body {
-    background-image: url("vishesh5.jpg");
-    background-size: cover ;
-    background-repeat: no-repeat;
-
+    background: rgb(147, 202, 237);
 }
 h1{
     font-size: 50px;
