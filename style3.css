@@ -1,16 +1,14 @@
 body {
-    background-image: url("vishesh3.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+  background:burlywood;
 
 }
 h1{
     font-size: 50px;
-    color:bisque;
+    color:beige;
     text-decoration: underline;
     text-align: center;
 }
 p {
     color:whitesmoke;
-        font-size: 36px;
+        font-size: 40px;
 }
