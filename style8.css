@@ -1,12 +1,10 @@
 body {
-    background-image: url("vishesh8.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background:rgb(253, 125, 189) ;
 
 }
 h1{
     font-size: 50px;
-    color:bisque;
+    color:white;
     text-decoration: underline;
     text-align: center;
 }
