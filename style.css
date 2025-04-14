@@ -8,9 +8,7 @@ div {
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
     transition-duration: 1s;  }
     body {
-        background-image: url("vishesh.jpg");
-        background-repeat: no-repeat;
-        background-size:cover;
+        background: rgb(253,125,189);
     }
     h1 {
         text-align: center;
