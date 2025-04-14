@@ -1,23 +1,19 @@
 body {
-    background-image: url("vishesh2.jpg");
-    background-size: auto;
-    background-repeat: no-repeat;
-
+    background:rgb(0, 140, 255);
 }
 h1{
     font-size:50px;
 
     text-align: center;
     text-decoration: underline;
-
+    line-height: normal;
     color:pink;
 }
 
 p {
-    color:rgb(27, 27, 27);
-    font-size: 35px;
-    font-family: Georgia, serif;
-
+    color:whitesmoke;
+    font-size: 40px;
+    line-height:normal ;
 }
 a {
     font-size: 40px;
